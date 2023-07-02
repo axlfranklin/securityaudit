@@ -56,30 +56,14 @@ gerenciamento </b>
 <h2>Comentários adicionais:</h2>
 <b>O impacto potencial da perda de um ativo é classificado como médio, porque o departamento de TI não sabe quais ativos seriam perdidos. A probabilidade de perda de ativos ou multas dos órgãos governamentais é alta porque a Botium Toys não possui todos os controles necessários e não está aderindo aos regulamentos e padrões exigidos relacionados à manutenção da privacidade dos dados do cliente.</b>
 
-<h2>Documentação para a Auditoria de Segurança:</h2>
+<h1>Documentação para a Auditoria de Segurança:</h1>
 
-<p align="center">
-Primeiro precisamos usar bibliotecas como Argparse e Socket: <br/>
-<img src="https://i.imgur.com/Y5WY3zH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2><a href="https://github.com/axlfranklin/securityaudit/blob/main/Meu%20Memorando.pdf">Memorando Fictício para Avaliação com Sumário/Recomendações</a></h2>
+
+<h2><a href="https://github.com/axlfranklin/securityaudit/blob/main/Avaliação%20de%20Controles.pdf">Avaliação de Controles</a></h2>
+ 
 <br />
 <br />
-Logo definindo os argumentos com arquivos locais para realizar a força bruta:  <br/>
-<img src="https://i.imgur.com/ItMcONE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Utilizando os argumentos: <br/>
-<img src="https://i.imgur.com/Q6Ko5ca.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Criando a função que realizará a lista dos sub domínios:  <br/>
-<img src="https://i.imgur.com/d4lPJ4l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Script realizado com sucesso na VM Metasploitable:  <br/>
-<img src="https://i.imgur.com/LR1L0f6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</p>
 
 <!--
  ```diff
