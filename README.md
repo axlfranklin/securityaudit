@@ -58,9 +58,9 @@ gerenciamento </b>
 
 <h1>Documentação para a Auditoria de Segurança:</h1>
 
-<h2><a href="https://github.com/axlfranklin/securityaudit/blob/main/Meu%20Memorando.pdf">Memorando Fictício para Avaliação com Sumário/Recomendações</a></h2>
+<h3><a href="https://github.com/axlfranklin/securityaudit/blob/main/Meu%20Memorando.pdf">Memorando Fictício para Avaliação com Sumário/Recomendações</a></h3>
 
-<h2><a href="https://github.com/axlfranklin/securityaudit/blob/main/Avaliação%20de%20Controles.pdf">Avaliação de Controles</a></h2>
+<h3><a href="https://github.com/axlfranklin/securityaudit/blob/main/Avaliação%20de%20Controles.pdf">Avaliação de Controles</a></h3>
  
 <br />
 <br />
