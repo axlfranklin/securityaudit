@@ -1,4 +1,4 @@
-<h1>Security Audit</h1>
+<h1>Auditoria de Segurança</h1>
 
 <h2>Descrição</h2>
 O projeto demonstra como seria uma auditoria em um caso real, realizado com uma empresa fictícia chamada "Botium Toys" que deseja estar adentrando no meio web, possuindo uma infra estrutura física mas migrando para um desenvolvimento web.
